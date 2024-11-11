@@ -10,10 +10,10 @@ Crawler Collection 是一个集合，包含各个平台的爬虫逆向相关内�
 
 ## 支持站点
 
-|     站点      | URL                              |
+|     站点      | URL                             |
 |:-----------:|:---------------------------------|
-| **YouTube** | <https://www.youtube.com/>       |
 | **Amazon**  | <https://www.amazon.com/>        |
+| **YouTube** | <https://www.youtube.com/>       |
 
 ## 免责声明
 ##### 该项目采用 Apache License 2.0 许可 -有关详细信息，请参阅LICENSE.md文件。
