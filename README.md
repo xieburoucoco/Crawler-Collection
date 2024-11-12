@@ -7,6 +7,7 @@
 
 # Crawler-Collection
 Crawler Collection 是一个集合，包含各个平台的爬虫逆向相关内容。
+支持站点有 亚马逊（Amazon）、油管(YouTube)等后续陆续更新...
 ## 免责声明
 
 本仓库的所有内容仅供学习使用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。
@@ -25,6 +26,11 @@ Crawler Collection 是一个集合，包含各个平台的爬虫逆向相关内�
 | **YouTube** | <https://www.youtube.com/>       |
 | **Amazon**  | <https://www.amazon.com/>        |
 
+### 亚马逊
+#### 评论接口
+
+### 油管
+#### 主页视频接口
 ## 免责声明
 <div id="disclaimer"> 
 
